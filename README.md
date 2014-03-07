@@ -1,4 +1,3 @@
 # Open Pipetting Page
 
-> The .github.com page of the Project
-
+*this AWESOME theme/jekyll buttler is almost entirely [poole](http://getpoole.com/). Go check it :)*

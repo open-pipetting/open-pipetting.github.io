@@ -1,3 +1,23 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /:title
+
+# Setup
+title:            Open Pipetting
+tagline:          'Biohacking made easy'
+description:      'An organization that tries to make easy to hack with bio.'
+url:              http://open-pipetting.github.com/
+
+author:
+  name:           'Open Pipetting Org'
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/open-pipetting/open-pipetting.github.io
