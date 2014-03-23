@@ -8,13 +8,13 @@ permalink:        /:title
 # Setup
 title:            Open Pipetting
 tagline:          'Biohacking made easy'
-description:      'An organization that tries to make easy to hack with bio.'
+description:      'An organization that tries to make easy to hack bio.'
 url:              http://open-pipetting.github.com/
 
 author:
   name:           'Open Pipetting Org'
 
-paginate:         1
+paginate:         4
 
 # Custom vars
 version:          1.0.0
