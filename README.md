@@ -2,7 +2,7 @@
 
 > The source of our bloggg
 
-## How to build it
+## How to build ittttttttt
 
 Building the blog locally is very simple. As we're using [Jekyll](http://jekyllrb.com/), some previous preparition is needed:
 
