@@ -1,6 +1,6 @@
 # Open Pipetting Page
 
-> The source of our blogg
+> The source of our bloggg
 
 ## How to build it
 
