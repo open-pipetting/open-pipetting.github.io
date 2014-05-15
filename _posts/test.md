@@ -34,21 +34,21 @@ tags: github iniciante newbie
 
 **1. Create a new repository on the command line**
 -------------
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/rafaelsanchezsouza/steps.git
-git push -u origin master
+*touch README.md
+*git init
+*git add README.md
+*git commit -m "first commit"
+*git remote add origin https://github.com/rafaelsanchezsouza/steps.git
+*git push -u origin master
 
 **Error**
 -------------
-"remote origin already exists on git push to new repository"
-http://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-new-repository
-"origin" is the local name of the remote repository
+*"remote origin already exists on git push to new repository"
+*http://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-new-repository
+*"origin" is the local name of the remote repository
 
 **2. Push an existing repository from the command line**
 -------------
-git remote add origin https://github.com/rafaelsanchezsouza/steps.git
-git push -u origin master
+*git remote add origin https://github.com/rafaelsanchezsouza/steps.git
+*git push -u origin master
 
