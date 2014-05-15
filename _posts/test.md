@@ -41,11 +41,12 @@ git commit -m "first commit"
 git remote add origin https://github.com/rafaelsanchezsouza/steps.git
 git push -u origin master
 
-**Error**
-
-"remote origin already exists on git push to new repository"
+**Error**: "remote origin already exists on git push to new repository"
 http://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-new-repository
 "origin" is the local name of the remote repository
+
+**Error**: End of the line!
+Sem Solução!
 
 **2. Push an existing repository from the command line**
 
