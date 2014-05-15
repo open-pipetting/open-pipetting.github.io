@@ -47,7 +47,6 @@ git push -u origin master
 http://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-new-repository
 "origin" is the local name of the remote repository
 
-
 **2. Push an existing repository from the command line**
 -------------
 git remote add origin https://github.com/rafaelsanchezsouza/steps.git
