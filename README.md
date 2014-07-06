@@ -20,8 +20,9 @@ OpenPipettingBot is an open project wich is meant to be built by as many people 
 
 ![Alt text](/_pics/andrew_pipetting_bot.jpg "Pipetting Bot")
 
+### How do I start?
 
-
+1. Start visiting our [website](http://cienciasusp.com/openpipettingbot/) to understand a bit more about the project. (For now, only in portuguese)
 
 
 -   Install [Ruby](https://www.ruby-lang.org/en/);
