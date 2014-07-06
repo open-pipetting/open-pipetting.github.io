@@ -16,7 +16,7 @@ http://northamerica.labnetinternational.com/sites/www.labnetinternational.com/fi
 
 These are Pippeting Robots (We are willing to develop the second one)
 
-![Alt text](/_pics/andrew_pippeting_bot "Pipetting Human Robot")
+![Alt text](/_pics/andrew_pippeting_bot.jpg "Pipetting Human Robot")
 
 http://www.nppwater.com/userfiles/image/iceland%20Training/Pipetting%20technique%202.jpg
 
