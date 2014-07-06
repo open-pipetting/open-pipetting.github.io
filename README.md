@@ -24,6 +24,7 @@ OpenPipettingBot is an open project wich is meant to be built by as many people 
 
 1. Start visiting our [website](http://cienciasusp.com/openpipettingbot/) to understand a bit more about the project. (For now, only in portuguese)
 
+## How do I write a blog?
 
 -   Install [Ruby](https://www.ruby-lang.org/en/);
 
