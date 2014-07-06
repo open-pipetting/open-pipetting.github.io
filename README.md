@@ -12,13 +12,15 @@ OpenPipettingBot is an open project wich is meant to be built by as many people 
 
 ![Alt text](/_pics/P3000_labpette_repeating_pipette_0.png "Pipette")
 
-* This is a Pippeting Human Bots
+* This is a Pippeting Human Bot
 
-![Alt text](/_pics/andrew_pipetting_bot.jpg "Pipetting Human Robot")
+![Alt text](/_pics/pipetting_human_robot.jpg "Pipetting Robot Robot")
 
 * This is a Pippeting Bot
 
-![Alt text](/_pics/pipetting_human_robot.jpg "Pipetting Robot Robot")
+![Alt text](/_pics/andrew_pipetting_bot.jpg "Pipetting Bot")
+
+
 
 
 
