@@ -28,7 +28,7 @@ OpenPipettingBot is an open project wich is meant to be built by as many people 
   * **User Interface**: [UI Repository](https://github.com/open-pipetting/pipettingbot-ui/blob/master/Sobre.md)
   * **Controler**: [Controller Repository](https://github.com/open-pipetting/pipettingbot-controller)
   * **CAM Sofwtare**: [grbl](https://github.com/open-pipetting/grbl/)
-  * **Prototipagem**: [Prototipagem](https://github.com/open-pipetting/pipettingbot-prototyping/)
+  * **Prototyping**: [Prototyping Repository](https://github.com/open-pipetting/pipettingbot-prototyping/)
 
 ## How do I write a blog?
 
