@@ -7,7 +7,9 @@ title: Conhecendo o que existe
 
 -----
 
-**//TODO: comentar a respeito de cada um para que possamos facilmente identificar as ideias**
+
+Ao longo da fase de benchmark encontramos algumas ideias similares/uteis ao projeto. Segue uma lista com as mesmas:
+
 
 -   [BioTron Multichannel - Liquid Handling](http://www.youtube.com/watch?v=tfgzI2NOedg)
 

@@ -25,32 +25,32 @@ Duas visitas feitas: primeiramente ao laboratório do Otto, outra no laborátór
 ![Diferentes suportes e tubos](https://lh5.googleusercontent.com/-X66x4FeyFi8/UxkJE3GvNKI/AAAAAAAAB6s/8ZCfaCV5Ccg/w729-h547-no/IMG_20140306_193647.jpg)
 
 
-## Laboratório de ~~?~~
+## Visita ao laboratório com a Eppendorf
 
-Eppendorf - Fabricante do modelo que vimos no LAB
+Fizemos então uma visita ao laboratório para conhecer uma pipetadora automática comercializada. Tiramos várias fotos e fizemos pequenos vídeos.
+
+Segue uma descrição:
+
+```
+Marce: Eppendorf
 www.eppendorf.com.br
 Contato: marcelo@eppendorf.com.br
 Sugestão do Usuário:
 Módulo simples, básico, que substitua um trabalho que seria manual
 
-
-[Hamilton Robots](http://www.hamiltonrobotics.com); [Tecan](http://www.tecan.com) --> Duas concorrentes que marcelo da eppendorf passou.
-
-
+Similares:
+	Hamilton Robots: http://www.hamiltonrobotics.com;
+	Tecan: http://www.tecan.com
+```
 
 Outra coisa importante é a questão das dimensões que precisam atender um padrão
 
-
 Imprimir:
 [Adjustable Volume Straw Pipette](http://www.thingiverse.com/thing:64977)
-
 
 ![Visão Geral](https://lh4.googleusercontent.com/AmdoAQmEX9EdcCvv8EvIPEcIcNcvkAjX_CFA4jVKXuM=w704-h528-no)
 
 ![Padrão dos módulos](https://lh6.googleusercontent.com/-Na8r4dcEC50/Ux92xeA6psI/AAAAAAAAB88/q9anIbsKNAI/w729-h547-no/IMG_20140311_141550.jpg)
 
 ![Área de descarte](https://lh5.googleusercontent.com/-T8OldB2R6Ic/Ux923j1sKwI/AAAAAAAAB9I/EAgO4JDGbAY/w729-h547-no/IMG_20140311_141610.jpg)
-
-
-
 

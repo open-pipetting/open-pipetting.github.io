@@ -8,6 +8,7 @@ tags: prototipagem projeto
 
 -----
 
+Comentar aqui a fase de prototipagem, dificuldades, etc.
 
 http://www.thingiverse.com/thing:255519/#files
 

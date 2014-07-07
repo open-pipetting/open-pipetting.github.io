@@ -8,8 +8,6 @@ tags: projeto conceitos
 
 -----
 
-
-
 > **//TODO** Descrever o conceito de personas, o porquê de fazer isso agora e como pode nos ajudar com o projeto.
 
 # Persona
