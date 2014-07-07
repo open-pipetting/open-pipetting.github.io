@@ -24,7 +24,7 @@ OpenPipettingBot is an open project wich is meant to be built by as many people 
 
 1. Start visiting our [website](http://cienciasusp.com/openpipettingbot/) to understand a bit more about the project. (For now, only in portuguese)
 
-2. Entenda os Subsistemas
+2. Understand the [Project Subsistems](https://github.com/open-pipetting/)
   * **User Interface**: [UI Repository](https://github.com/open-pipetting/pipettingbot-ui/blob/master/Sobre.md)
   * **Controler**: [Controller Repository](https://github.com/open-pipetting/pipettingbot-controller)
   * **CAM Sofwtare**: [grbl](https://github.com/open-pipetting/grbl/)
