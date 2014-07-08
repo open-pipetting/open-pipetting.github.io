@@ -14,8 +14,9 @@ tags: apresentação projeto
 
 **Foto** : foto individual de cada um dos integrantes, dividido em 4 setores.
 
-## Motivos de cada
+## Motivos de cada um
 
+```
 | Integrante |                        motivo                       |
 | ---------- | --------------------------------------------------- |
 | Ciro       | mão na massa                                        |
@@ -25,7 +26,7 @@ tags: apresentação projeto
 | Rafael     | Gostou da ideia de open hardware, projeto sujerido  |
 |            | por aluno                                           |
 | Otto       |                                                     |
-
+```
 
 # Slide 2
 
