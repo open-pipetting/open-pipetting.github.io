@@ -2,6 +2,12 @@
 
 > http://cienciasusp.com/openpipettingbot/
 
+- [What is this project?](#what-is-this-project)
+  - [What is a Pipetting Bot?](#what-is-a-pipetting-bot)
+  - [How do I start?](#how-do-i-start)
+- [How do I write a blog?](#how-do-i-write-a-blog)
+- [Credits](#credits)
+
 ## What is this project?
 
 OpenPipettingBot is an open project which is meant to be built by as many people as possible!
@@ -44,6 +50,8 @@ Having the requirements prepared, build it with Jekyll:
 ```bash
 $ jekyll serve
 ```
+
+Follow the instructions :smile:
 
 ## Credits
 
